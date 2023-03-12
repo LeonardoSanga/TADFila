@@ -27,6 +27,3 @@ progredindo para os demais. Além disso, um cenário real em que geralmente
 há a utilização de filas é os sistemas de atendimento, que usam filas para
 manter seus clientes em pedido, até que um dos funcionários esteja
 desocupado.
-
-
-[DocumentacaoTADFila.pdf](https://github.com/LeonardoSanga/TADFila/files/10475027/DocumentacaoTADFila.pdf)
